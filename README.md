@@ -7,7 +7,6 @@ This is an interactive HR dashboard built using Microsoft Power BI. It visualize
 ## 🧰 Tools Used
 - Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
 
 ## 📈 Key Features
 - Employee breakdown by department and gender
